@@ -1,0 +1,11 @@
+tensorflow~=2.19.0
+opencv-python~=4.11.0.86
+mediapipe~=0.10.21
+streamlit~=1.45.1
+numpy~=1.26.4
+matplotlib~=3.10.3
+scikit-learn~=1.7.0
+plyer~=2.1.0
+twilio
+yagmail
+pillow~=11.2.1
